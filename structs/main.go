@@ -21,8 +21,8 @@ func main() {
 			zipCode: 36320,
 		},
 	}
-	nahlaPointer := &nahla
-	nahlaPointer.changeName("Hamza")
+
+	nahla.changeName("Hamza")
 	nahla.print()
 }
 
