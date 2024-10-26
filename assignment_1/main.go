@@ -15,8 +15,8 @@ type triangle struct {
 
 func main() {
 
-	tr := triangle{5, 7}
-	sq := square{4}
+	tr := triangle{base: 5, height: 7}
+	sq := square{sideLength: 4}
 
 	printArea(tr)
 	printArea(sq)
