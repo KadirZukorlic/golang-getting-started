@@ -1,0 +1,5 @@
+Starting the program...
+0.36s   188505  https://apple.com
+0.38s    21357  https://google.com
+0.78s    62384  https://golang.org
+0.78s elapsed
